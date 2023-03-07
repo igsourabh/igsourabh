@@ -116,7 +116,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ![Snake animation](https://github.com/igsourabh/igsourabh/blob/output/github-contribution-grid-snake.svg)
- ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)
+ 
 
 <br/>  
 
