@@ -114,11 +114,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
 
 ![Snake animation](https://github.com/igsourabh/igsourabh/blob/output/github-contribution-grid-snake.svg)
  
