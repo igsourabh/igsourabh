@@ -93,15 +93,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&username=igsourabh" align="left" style="width: 100%"  />
 
-</td><td valign="top" width="50%">
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&username=igsourabh" height="150" alt="languages graph" align="left" style="width: 100%"  />
-
-</td></tr></table>  
 
 
 ![Snake animation](https://github.com/igsourabh/igsourabh/blob/output/github-contribution-grid-snake.svg)
