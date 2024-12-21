@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm Sourabh Vaish!  
+## Hey 👋, I'm Sourabh!  
   
 
 <a href="https://github.com/igsourabh" target="_blank">
